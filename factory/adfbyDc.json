@@ -1,0 +1,15 @@
+{
+	"name": "adfbyDc",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b30f7e14-4833-4591-904f-374860aab3fb",
+		"tenantId": "54335171-c3e8-475b-a352-18afd1008cec"
+	}
+}
